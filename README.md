@@ -26,5 +26,6 @@ npm install
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/book-catalog-app.git
-cd book-catalog-app
+https://github.com/avnishrai569/Book_Catalog.git
+
+cd book-catalog
